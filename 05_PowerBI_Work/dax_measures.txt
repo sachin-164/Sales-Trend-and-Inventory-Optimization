@@ -1,0 +1,16 @@
+# Total Revenue
+Total Revenue = SUM(final_model_data[Selling_Price_Per_KG]) * SUM(final_model_data[Quantity_Sold_KG])
+
+#Total Profit
+Total Profit = SUM(final_model_data[Total_Order_Profit])
+
+# Margin in % 
+Margin % = DIVIDE([Total Profit], [Total_Revenue], 0) or
+
+Margin % = VAR TotalRevenue = SUMX('final_model_data', 'final_model_data'[Selling_Price_Per_KG] * 'final_model_data'[Quantity_Sold_KG])
+           VAR TotalProfit = SUM('final_model_data'[Total_Order_Profit])
+           RETURN
+           DIVIDE(TotalProfit, TotalRevenue, 0)
+
+# Average Storage Days
+Avg Storage Days = AVERAGE('final_model_data'[Storage_Duration_Days])
