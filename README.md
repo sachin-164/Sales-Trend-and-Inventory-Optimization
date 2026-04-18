@@ -1,4 +1,4 @@
-# **Honey Rich Pvt Ltd: Export Supply Chain & Profitability Analysis**
+# **Honey Rich Pvt Ltd: Sales-Trend-and-Inventory-Optimization**
 
 ### **📊 Project Overview**
 This project was developed during a **10-week Industrial Training program** to optimize inventory and financial tracking for **Honey Rich Pvt Ltd**, a global exporter of agricultural products. The primary goal was to bridge the gap between **procurement costs** and **export sales revenue** to identify profit leakages.
