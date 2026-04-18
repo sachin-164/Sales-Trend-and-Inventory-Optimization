@@ -12,7 +12,7 @@ This project was developed during a **10-week Industrial Training program** to o
 * **`01_Original_Files/`**: Raw CSV datasets (Export Sales & Supply Logs).
 * **`02_SQL_Logic/`**: SQL scripts for table joins and vendor ranking.
 * **`03_Python_Code/`**: Jupyter Notebooks and `.py` scripts for data engineering.
-* **`04_Clean_Data/`**: Final processed "Gold" dataset (`final_model_data.csv`).
+* **`04_Clean_Data/`**: Final processed dataset.
 * **`05_PowerBI_Work/`**: Interactive dashboard file (`.pbix`) and DAX formulas.
 * **`07_Statistical_Visuals/`**: Automated plots (**Heatmaps** & **Scatter Plots**).
 
