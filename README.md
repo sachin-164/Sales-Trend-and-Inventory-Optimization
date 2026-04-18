@@ -1,4 +1,4 @@
-# **Honey Rich Pvt Ltd: Export Supply Chain & Profitability Analysis**
+# **Honey Rich Pvt Ltd: Sales-Trend-and-Inventory-Optimization**
 
 ### **📊 Project Overview**
 This project was developed during a **10-week Industrial Training program** to optimize inventory and financial tracking for **Honey Rich Pvt Ltd**, a global exporter of agricultural products. The primary goal was to bridge the gap between **procurement costs** and **export sales revenue** to identify profit leakages.
@@ -12,7 +12,7 @@ This project was developed during a **10-week Industrial Training program** to o
 * **`01_Original_Files/`**: Raw CSV datasets (Export Sales & Supply Logs).
 * **`02_SQL_Logic/`**: SQL scripts for table joins and vendor ranking.
 * **`03_Python_Code/`**: Jupyter Notebooks and `.py` scripts for data engineering.
-* **`04_Clean_Data/`**: Final processed "Gold" dataset (`final_model_data.csv`).
+* **`04_Clean_Data/`**: Final processed dataset.
 * **`05_PowerBI_Work/`**: Interactive dashboard file (`.pbix`) and DAX formulas.
 * **`07_Statistical_Visuals/`**: Automated plots (**Heatmaps** & **Scatter Plots**).
 
